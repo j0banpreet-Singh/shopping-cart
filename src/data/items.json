@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Nike Shoes",
+      "price": 10.99,
+      "imgUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/fdded470-0ac5-4bd7-b41b-1bb63e161438/custom-nike-air-force-1-mid-by-you-shoes.png"
+    },
+    {
+      "id": 2,
+      "name": "Nike Air Max",
+      "price": 1199,
+      "imgUrl": "https://static.nike.com/a/images/t_default/f3b760d7-2c28-4801-bec6-12c32d7137b1/air-max-impact-4-basketball-shoes-CcJxBx.png"
+    },
+    {
+      "id": 3,
+      "name": "Nike Air Max",
+      "price": 1.05,
+      "imgUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/e9d41cd4-a2c5-4ca7-a3aa-f4bf597658d0/custom-nike-air-force-1-mid-by-you-shoes.png"
+    },
+    {
+      "id": 4,
+      "name": "sneakers",
+      "price": 14000,
+      "imgUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/9355f630-53c7-4567-89b4-a788c93171ea/air-zoom-gt-jump-basketball-shoes-22QS5F.png"
+    },
+    {
+      "id": 5,
+      "name": "Nike Shoes",
+      "price": 10.99,
+      "imgUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/fdded470-0ac5-4bd7-b41b-1bb63e161438/custom-nike-air-force-1-mid-by-you-shoes.png"
+    },
+    {
+      "id": 6,
+      "name": "Nike Air Max",
+      "price": 1199,
+      "imgUrl": "https://static.nike.com/a/images/t_default/f3b760d7-2c28-4801-bec6-12c32d7137b1/air-max-impact-4-basketball-shoes-CcJxBx.png"
+    }
+  ]
